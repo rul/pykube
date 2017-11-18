@@ -24,6 +24,7 @@ from .objects import (  # noqa
     PetSet,
     Pod,
     PodSecurityPolicy,
+    PodDisruptionBudget,
     ReplicationController,
     ReplicaSet,
     ResourceQuota,
